@@ -1,6 +1,17 @@
+# Modules
 node_modules
+
+# Config
 .vscode
+.eslintignore
+
+# Database
 database/app.db
+database/test.db
+
+# Environment
 .env
 .env.test
-database/test.db
+
+# Build
+build
